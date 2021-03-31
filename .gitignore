@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#rytl
+subs.html
+sync.ffs_db
+rss.py.bak
+channels.txt
